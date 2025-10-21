@@ -1332,6 +1332,12 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 |https://www.yotech.ltd[Website]
 |Please update
 
+|Zensoft Lab
+|House 120, Road 3, Kuril, Vatara, Dhaka
+|JavaScript, Node, React, Next, MongoDB, Flutter, Django, AI Automation, Digital Marketing, Low Code
+|http://zensoftlab.com[Website]
+|Please update
+
 |===
 
 ==== Alphabetical Order: 1 - 9
